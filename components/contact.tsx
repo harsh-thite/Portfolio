@@ -26,10 +26,13 @@ export function Contact() {
             transition={{ delay: 0.2 }}
           >
             {[
-              { icon: Github, href: "https://github.com" },
-              { icon: Linkedin, href: "https://linkedin.com" },
-              { icon: Twitter, href: "https://twitter.com" },
-              { icon: Mail, href: "mailto:your@email.com" },
+              { icon: Github, href: "https://github.com/harsh-thite" },
+              {
+                icon: Linkedin,
+                href: "https://www.linkedin.com/in/harsh-thite/",
+              },
+              { icon: Twitter, href: "https://x.com/thiteharsh?s=21" },
+              { icon: Mail, href: "mailto:harshthite2013@email.com" },
             ].map((social, i) => (
               <motion.a
                 key={i}
