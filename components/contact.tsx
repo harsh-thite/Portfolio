@@ -13,7 +13,7 @@ export function Contact() {
           <p className="text-secondary max-w-2xl mx-auto mb-12">
             Let's connect and build something amazing together! Whether it’s
             tech, innovation, or just a friendly chat—drop me a message and
-            let’s make ideas happen.
+            let’s make ideas happen. I'll try my best to get back to you!
           </p>
           <motion.div
             className="flex justify-center gap-8 mb-12"
