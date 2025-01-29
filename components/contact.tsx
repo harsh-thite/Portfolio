@@ -1,8 +1,8 @@
-"use client"
+"use client";
 
-import { motion } from "framer-motion"
-import { Github, Linkedin, Mail, Twitter } from "lucide-react"
-import { FadeIn } from "./animations"
+import { motion } from "framer-motion";
+import { Github, Linkedin, Mail, Twitter } from "lucide-react";
+import { FadeIn } from "./animations";
 
 export function Contact() {
   return (
@@ -11,8 +11,9 @@ export function Contact() {
         <FadeIn>
           <h1 className="text-4xl font-bold mb-8">Get In Touch</h1>
           <p className="text-secondary max-w-2xl mx-auto mb-12">
-            I'm currently looking for new opportunities. Whether you have a question or just want to say hi, I'll try my
-            best to get back to you!
+            Let's connect and build something amazing together! Whether it’s
+            tech, innovation, or just a friendly chat—drop me a message and
+            let’s make ideas happen.
           </p>
           <motion.div
             className="flex justify-center gap-8 mb-12"
@@ -76,6 +77,5 @@ export function Contact() {
         </FadeIn>
       </div>
     </section>
-  )
+  );
 }
-
