@@ -51,9 +51,11 @@ export function Hero() {
         </FadeIn>
         <FadeIn delay={0.2}>
           <p className="text-secondary max-w-2xl text-lg md:text-xl mb-8">
-            Your friendly neighborhood frontend developer, UX architect, and
-            JavaScript engineer. I spend my days (and often nights) painting the
-            Internet canvas with{" "}
+            Crafting code, designing experiences, and pushing the boundaries of
+            innovation—one project at a time. From building seamless web
+            applications to optimizing digital solutions, I transform ideas into
+            reality with Python, Django, some frontend and a touch of
+            creativity. Curious about what I’ve built? Take a look!{" "}
             <Link
               href="/projects"
               className="text-primary hover:underline inline-flex items-center gap-1 group"
@@ -67,8 +69,8 @@ export function Hero() {
                 →
               </motion.span>
             </Link>{" "}
-            and lines of code, turning zeroes and ones into immersive,
-            interactive experiences.
+            Always eager to learn, adapt, and push boundaries in tech, I strive
+            to build technology that makes a difference.
           </p>
         </FadeIn>
         <FadeIn delay={0.4}>
