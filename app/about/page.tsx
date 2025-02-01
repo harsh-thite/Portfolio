@@ -13,10 +13,11 @@ export default function About() {
           digital solutions.
         </p>
         <p className="text-lg mb-4">
-          With [X] years of experience in the field, I've had the opportunity to
-          work on a wide range of projects, from small business websites to
-          large-scale web applications. My expertise includes HTML, CSS,
-          JavaScript, React, and Next.js, among other modern web technologies.
+          With [X] years of experience in the software field, I've had the
+          opportunity to work on a wide range of projects, from small business
+          websites to large-scale web applications. My expertise includes HTML,
+          CSS, JavaScript, React, and Next.js, among other modern web
+          technologies.
         </p>
         <p className="text-lg">
           When I'm not coding, you can find me [your hobbies or interests]. I'm
