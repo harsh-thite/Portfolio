@@ -51,7 +51,7 @@ export function Hero() {
         </FadeIn>
         <FadeIn delay={0.2}>
           <p className="text-secondary max-w-2xl text-lg md:text-xl mb-8">
-            Crafting codes, designing experiences, and pushing the boundaries of
+            Crafting code, designing experiences, and pushing the boundaries of
             innovation—one project at a time. From building seamless web
             applications to optimizing digital solutions, I transform ideas into
             reality with Python, Django, some frontend and a touch of
