@@ -6,11 +6,12 @@ export default function About() {
       <FadeIn>
         <h1 className="text-4xl font-bold mb-8">About Me</h1>
         <p className="text-lg mb-4">
-          I am Harsh Thite, a dedicated and ambitious Software Engineer
-          currently pursuing a B.Tech in Computer Science at SRM University.
-          With a strong foundation in Python, Django, and full-stack web
-          development, I am passionate about building scalable and efficient
-          digital solutions.
+          I’m Harsh Thite, a passionate and results-driven Software Engineer
+          with a strong foundation in Python, Django, and full-stack web
+          development. Currently pursuing my B.Tech in Computer Science with a
+          specialization in Software Engineering at SRM University, I have
+          consistently honed my skills by working on scalable, high-performance
+          applications and contributing to open-source projects.
         </p>
         <p className="text-lg mb-4">
           With [X] years of experience in the field, I've had the opportunity to
