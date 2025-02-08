@@ -23,7 +23,7 @@ const projects = [
       github: "https://github.com/harsh-thite/Routzy",
       live: "https://example.com",
     },
-    image: "/pictures/routzy.png", // Updated local image path
+    image: "/pictures/routzy.png", //  local image path
   },
   {
     title: "DiscountU (Discount Aggregator Platform)",
