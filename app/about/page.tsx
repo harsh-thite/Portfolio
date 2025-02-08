@@ -22,9 +22,12 @@ export default function About() {
           intelligent and optimized software solutions.
         </p>
         <p className="text-lg">
-          When I'm not coding, you can find me [your hobbies or interests]. I'm
-          always eager to learn new technologies and techniques to improve my
-          craft and deliver the best possible solutions to my clients.
+          Beyond technical expertise, I have led and collaborated on team-based
+          projects, organized tech events, and contributed to the IEEE SRM Media
+          & Content team, refining my UI/UX design and communication skills.
+          Recognized as a Winner in SRMIST’s Ideathon for optimizing cloud-based
+          web applications, I am committed to continuous learning and innovation
+          in the field of software development and cloud computing.
         </p>
       </FadeIn>
     </main>
