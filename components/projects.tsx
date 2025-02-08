@@ -139,7 +139,7 @@ export function Projects() {
         <FadeIn>
           <div className="text-center mb-16">
             <motion.a
-              href="/your-resume.pdf"
+              href="/resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 text-lg font-semibold text-primary hover:underline"
