@@ -21,7 +21,7 @@ export default function About() {
           using Pandas and NumPy further strengthens my approach to developing
           intelligent and optimized software solutions.
         </p>
-        <p className="text-lg">
+        <p className="text-lg mb-4">
           Beyond technical expertise, I have led and collaborated on team-based
           projects, organized tech events, and contributed to the IEEE SRM Media
           & Content team, refining my UI/UX design and communication skills.
