@@ -14,10 +14,12 @@ export default function About() {
           applications and contributing to open-source projects.
         </p>
         <p className="text-lg mb-4">
-          With [X] years of experience in the field, I've had the opportunity to
-          work on a wide range of projects, from small business websites to
-          large-scale web applications. My expertise includes HTML, CSS,
-          JavaScript, React, and Next.js, among other modern web technologies.
+          With hands-on experience in web development, database management, and
+          REST API design, I have built solutions ranging from ride-sharing
+          platforms to e-commerce applications, leveraging modern technologies
+          like HTMX, Django REST Framework, and SQL. My ability to analyze data
+          using Pandas and NumPy further strengthens my approach to developing
+          intelligent and optimized software solutions.
         </p>
         <p className="text-lg">
           When I'm not coding, you can find me [your hobbies or interests]. I'm
