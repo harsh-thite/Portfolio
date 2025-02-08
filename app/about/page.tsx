@@ -29,6 +29,15 @@ export default function About() {
           web applications, I am committed to continuous learning and innovation
           in the field of software development and cloud computing.
         </p>
+        <p className="text-lg mb-4">
+          And at last, when I’m not coding, you’ll probably find me competing in
+          gaming tournaments, hitting the track for athletics, or playing
+          sports. Whether it’s strategizing in a game, pushing my limits in a
+          sprint, or enjoying a friendly match, I love the thrill of competition
+          and the discipline it brings. These passions keep me motivated,
+          sharpen my focus, and fuel my drive to tackle challenges—both in code
+          and in life.
+        </p>
       </FadeIn>
     </main>
   );
