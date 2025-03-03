@@ -40,7 +40,7 @@ const projects = [
     ],
     links: {
       github: "https://github.com/harsh-thite/DiscountU",
-      live: "https://example.com",
+      live: "https://discountu.onrender.com",
     },
     image: "/pictures/discountu.png", // Updated local image path
   },
@@ -51,7 +51,7 @@ const projects = [
     tags: ["Python", "Django", "HTMX", "HTML", "CSS", "Bootstrap", "Rest API"],
     links: {
       github: "https://github.com/harsh-thite/HMart",
-      live: "https://example.com",
+      live: "https://hmart-2v6u.onrender.com",
     },
     image: "/pictures/hmart.png", // Updated local image path
   },
